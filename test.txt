@@ -4,7 +4,5 @@ colors:
 
 	orange
 	red
-	green
-	yellow
 	blue.
 
